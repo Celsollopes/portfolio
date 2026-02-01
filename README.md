@@ -1,5 +1,5 @@
 ![GitHub License](https://img.shields.io/github/license/Celsollopes/portfolio)
-# 🌟 Technical Portfolio
+# :gear: Technical Portfolio
 
 Welcome to my technical portfolio.  
 Here you will find my main projects in **Python**, **Machine Learning**, **AI Agents**, **MLOps**, **Mathematics for Machine Learning**, and **Statistics**.
