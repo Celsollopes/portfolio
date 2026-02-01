@@ -1,3 +1,4 @@
+![GitHub License](https://img.shields.io/github/license/Celsollopes/portfolio)
 # 🌟 Technical Portfolio
 
 Welcome to my technical portfolio.  
